@@ -1,5 +1,11 @@
 # dolorkey-tracker
 
+[WIP]
+
+Weekly pain tracker
+
+![App example](./example.png)
+
 ## Project setup
 ```
 npm install
