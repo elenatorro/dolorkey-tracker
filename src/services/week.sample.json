@@ -1,0 +1,133 @@
+{
+    "name": "username",
+    "month": 0,
+    "year": 2020,
+    "dayTimes": [
+        "morning",
+        "midmorning",
+        "midday",
+        "afternoon",
+        "evening"
+    ],
+    "week": {
+        "monday": {
+            "morning": {
+                "intensity": 0
+            },
+            "midmorning": {
+                "intensity": 0
+            },
+            "midday": {
+                "intensity": 0
+            },
+            "afternoon": {
+                "intensity": 0
+            },
+            "evening": {
+                "intensity": 0
+            }
+        },
+        "tuesday": {
+            "morning": {
+                "intensity": 0
+            },
+            "midmorning": {
+                "intensity": 0
+            },
+            "midday": {
+                "intensity": 0
+            },
+            "afternoon": {
+                "intensity": 0
+            },
+            "evening": {
+                "intensity": 0
+            }
+        },
+        "wednesday": {
+            "morning": {
+                "intensity": 0
+            },
+            "midmorning": {
+                "intensity": 0
+            },
+            "midday": {
+                "intensity": 0
+            },
+            "afternoon": {
+                "intensity": 0
+            },
+            "evening": {
+                "intensity": 0
+            }
+        },
+        "thursday": {
+            "morning": {
+                "intensity": 0
+            },
+            "midmorning": {
+                "intensity": 0
+            },
+            "midday": {
+                "intensity": 0
+            },
+            "afternoon": {
+                "intensity": 0
+            },
+            "evening": {
+                "intensity": 0
+            }
+        },
+        "friday": {
+            "morning": {
+                "intensity": 0
+            },
+            "midmorning": {
+                "intensity": 0
+            },
+            "midday": {
+                "intensity": 0
+            },
+            "afternoon": {
+                "intensity": 0
+            },
+            "evening": {
+                "intensity": 0
+            }
+        },
+        "saturday": {
+            "morning": {
+                "intensity": 0
+            },
+            "midmorning": {
+                "intensity": 0
+            },
+            "midday": {
+                "intensity": 0
+            },
+            "afternoon": {
+                "intensity": 0
+            },
+            "evening": {
+                "intensity": 0
+            }
+        },
+        "sunday": {
+            "morning": {
+                "intensity": 0
+            },
+            "midmorning": {
+                "intensity": 0
+            },
+            "midday": {
+                "intensity": 0
+            },
+            "afternoon": {
+                "intensity": 0
+            },
+            "evening": {
+                "intensity": 0
+            }
+        }
+    }
+}
